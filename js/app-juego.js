@@ -12,7 +12,7 @@ let filteredData = [];
  * Carga inicial al terminar de cargar el DOM
  */
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("/js/json/vocabulario.json")
+  fetch("js/json/vocabulario.json")
     .then(response => {
       if (!response.ok) throw new Error("Archivo JSON no encontrado o inválido");
       return response.json();
