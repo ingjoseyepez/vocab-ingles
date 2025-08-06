@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vocab-Ingles</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+
+<body>
+  <div class="container">
+    
+    <!-- 🧭 Header -->
+    <header id="header" class="header" role="banner">
+      <nav class="nav" aria-label="Menú principal">
+        <ul class="nav__list">
+          <li><a href="#header">Inicio</a></li>
+          <li><a href="#vocabulario">Vocabulario</a></li>
+          <li><a href="#practicas">Practicas</a></li>
+        </ul>
+      </nav>
+
+      <div class="header__content">
+        <div class="header__text">
+          <h1>¡Conquista el inglés de manera fácil y rápida!</h1>
+          <p>
+            Transforma tu inglés con Vocab-Ingles. Aprende vocabulario fácil y rápido a tu ritmo, 
+            eligiendo entre categorías como números, días, verbos y más.
+          </p>
+        </div>
+        <div class="header__image">
+          <img src="img/img_1.jpg" alt="Estudiante aprendiendo inglés">
+        </div>
+      </div>
+    </header>
+
+    <!-- 📚 Vocabulario -->
+    <main>
+      <section id="vocabulario" class="vocabulario" aria-labelledby="titulo-vocabulario">
+        <h2 id="titulo-vocabulario" class="visually-hidden">Sección de Vocabulario</h2>
+        
+        <!-- Filtros -->
+        <div class="filters" id="filters">
+          <div class="categories" role="group" aria-label="Filtrar por categoría">
+            <button class="category-btn" data-category="todos">Todos</button>
+            <button class="category-btn" data-category="basico">Básico</button>
+            <button class="category-btn" data-category="intermedio" disabled>Intermedio</button>
+            <button class="category-btn" data-category="avanzado" disabled>Avanzado</button>
+          </div>
+
+          <div class="search-box">
+            <input 
+              type="text" 
+              id="search-input" 
+              placeholder="Buscar palabra..." 
+              aria-label="Buscar palabra por nombre"
+            >
+          </div>
+        </div>
+
+        <div class="vocab-cards" id="vocab-cards" aria-live="polite"></div>
+        <div id="pagination" class="pagination"></div>
+      </section>
+
+      <!-- 🎮 Práctica -->
+      <section id="practicas" class="practicas" aria-labelledby="titulo-practicas">
+        <div class="practicas__image">
+          <img src="img/img_2.jpg" alt="Libro de vocabulario" loading="lazy">
+        </div>
+        <div class="practica__text">
+          <h2 id="titulo-practicas">
+            ¡Pon a prueba tu vocabulario en inglés jugando a emparejar palabras!
+          </h2>
+          <a href="app.html" class="btn">JUGAR AHORA</a>
+        </div>
+      </section>
+    </main>
+
+    <!-- 🔗 Footer -->
+    <footer class="footer" role="contentinfo">   
+      <div class="autor">
+      <p>© 2025 José Yepez</p>
+    </div>
+    </footer>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

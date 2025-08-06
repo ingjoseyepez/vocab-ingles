@@ -1,0 +1,26 @@
+[
+    { "letter": "Alfombra", "sound": "Rug", "pronunciacion": "rruhg" },
+    { "letter": "Almohada", "sound": "Pillow", "pronunciacion": "pih - lou" },
+    { "letter": "Cabecera de la cama", "sound": "Headboard", "pronunciacion": "jehd - borrd" },
+    { "letter": "Cama", "sound": "Bed", "pronunciacion": "behd" },
+    { "letter": "Edredón", "sound": "Comforter", "pronunciacion": "kahm - fuhrr - duhrr" },
+    { "letter": "Cobija", "sound": "Blanket", "pronunciacion": "bleihng - kiht" },
+    { "letter": "Cubrecama", "sound": "Bedspread", "pronunciacion": "behd - sprrehd" },
+    { "letter": "Colchón", "sound": "Mattress", "pronunciacion": "mah - trrehs" },
+    { "letter": "Cómoda", "sound": "Dresser", "pronunciacion": "drrueh - suhrr" },
+    { "letter": "Cortina", "sound": "Curtain", "pronunciacion": "kuhrr - tehn" },
+    { "letter": "Enchufe", "sound": "Plug", "pronunciacion": "plahg" },
+    { "letter": "Espejo", "sound": "Mirror", "pronunciacion": "mirr - uhrr" },
+    { "letter": "Funda de almohada", "sound": "Pillowcase", "pronunciacion": "pih - lou - keys" },
+    { "letter": "Interruptor de luz", "sound": "Switch", "pronunciacion": "swihch" },
+    { "letter": "Mesita de noche", "sound": "Night table", "pronunciacion": "nayt tey - buhl" },
+    { "letter": "Percha", "sound": "Hanger", "pronunciacion": "jehng - guhrr" },
+    { "letter": "Persianas", "sound": "Blinds", "pronunciacion": "blaynds" },
+    { "letter": "Pie de la cama", "sound": "Footboard", "pronunciacion": "futh - borrd" },
+    { "letter": "Ropero", "sound": "Closet", "pronunciacion": "kla - ziht" },
+    { "letter": "Reloj despertador", "sound": "Alarm clock", "pronunciacion": "ah - larrm klak" },
+    { "letter": "Sábana", "sound": "Sheet", "pronunciacion": "shit" },
+    { "letter": "Teléfono", "sound": "Phone", "pronunciacion": "foun" },
+    { "letter": "Tomacorriente", "sound": "Socket", "pronunciacion": "so - kiht" }
+  ]
+    

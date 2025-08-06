@@ -1,0 +1,23 @@
+[
+    { "letter": "Baño (en lugares públicos)", "sound": "Restroom", "pronunciacion": "rrehs - trrum" },
+    { "letter": "Grifo de agua", "sound": "Faucet", "pronunciacion": "fa - siht" },
+    { "letter": "Bañera", "sound": "Bathtub", "pronunciacion": "bahth - tuhb" },
+    { "letter": "Ducha", "sound": "Shower", "pronunciacion": "shau - uhrr" },
+    { "letter": "Inodoro", "sound": "Toilet", "pronunciacion": "toy - leht" },
+    { "letter": "Bidé", "sound": "Bidet", "pronunciacion": "bih - dey" },
+    { "letter": "Espejo", "sound": "Mirror", "pronunciacion": "mirr - uhrr" },
+    { "letter": "Lavamanos", "sound": "Sink", "pronunciacion": "sihngk" },
+    { "letter": "Papel higiénico", "sound": "Toilet paper", "pronunciacion": "toy - leht pey - puhrr" },
+    { "letter": "Artículo de tocador", "sound": "Toiletry", "pronunciacion": "toy - lih - trri" },
+    { "letter": "Toallón", "sound": "Bath towel", "pronunciacion": "bahth tau - uhl" },
+    { "letter": "Toalla", "sound": "Towel", "pronunciacion": "tau - uhl" },
+    { "letter": "Toallero", "sound": "Towel rack", "pronunciacion": "tau - uhl rrahk" },
+    { "letter": "Jabón", "sound": "Soap", "pronunciacion": "soup" },
+    { "letter": "Jabonera", "sound": "Soap tray", "pronunciacion": "soup thrrey" },
+    { "letter": "Esponja", "sound": "Sponge", "pronunciacion": "spanchj" },
+    { "letter": "Cepillo de dientes", "sound": "Toothbrush", "pronunciacion": "tuth - brruhsh" },
+    { "letter": "Cepillo de pelo", "sound": "Hairbrush", "pronunciacion": "jehrr - brruhsh" },
+    { "letter": "Peine", "sound": "Comb", "pronunciacion": "kom" },
+    { "letter": "Talco", "sound": "Talcum", "pronunciacion": "talh - cum" }
+  ]
+  

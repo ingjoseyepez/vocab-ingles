@@ -1,0 +1,494 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* === VARIABLES GLOBALES === */
+:root {
+  --primary: #e33523;
+  --accent: #2196f3;
+  --light-bg: #f5f7fa;
+  --light: #ffffff;
+  --dark: #2d3748;
+  --text: #1a1a1a;
+  --text-light: #4a4a4a;
+  --disabled: #ddd;
+  --hover-bg: #e0e7ff;
+  --focus-outline: #4caf50;
+}
+
+/* === RESET GENERAL === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Londrina Solid", sans-serif;
+  font-weight: 300;
+  background-color: var(--light-bg);
+  color: var(--text);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* === CONTENEDOR GENERAL === */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* === HEADER === */
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: url("/img/bg-1.png") no-repeat center/cover;
+}
+
+.nav {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.nav__list {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+}
+
+.nav__list a {
+  font-size: 18px;
+  color: var(--text);
+}
+.nav__list a:hover {
+  border-bottom: 2px solid #e33523;
+}
+/* === ENCABEZADO === */
+.encabezado {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 50px;
+}
+.encabezado h1{
+font-size: 40px;
+padding: 0px 20px;
+}
+button {
+  background-color: #e33523;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  margin: 0px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+button:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* === HEADER CONTENT === */
+.header__content {
+  display: flex;
+  justify-content: center;
+}
+
+.header__text {
+  width: 50%;
+  padding: 20px 50px;
+}
+
+.header__text h1 {
+  font-size: 4em;
+  font-weight: 900;
+  color: var(--text);
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header__text p {
+  font-size: 18px;
+  color: var(--text-light);
+  letter-spacing: 0.3px;
+  margin: 20px 0;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.header__image {
+  width: 40%;
+  display: flex;
+  justify-content: start;
+  padding: 20px;
+}
+
+.header__image img {
+  width: 90%;
+  height: 90%;
+  border: 10px solid var(--light);
+  transform: rotate(-3deg);
+  object-fit: cover;
+}
+
+/* === VOCABULARIO === */
+.vocabulario {
+  width: 100%;
+  padding: 60px 20px;
+  text-align: center;
+  background: var(--light);
+}
+
+.vocabulario h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.vocab-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.vocab-card {
+  background-color: var(--light);
+  border-radius: 12px;
+  padding: 30px 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.vocab-card img.card-img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.vocab-card:hover {
+  background-color: var(--hover-bg);
+  transform: scale(1.05);
+}
+
+.vocab-card.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  background-color: var(--disabled);
+}
+
+/* === FILTROS Y BÚSQUEDA === */
+#categories {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding: 0 50px;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.search-box {
+  flex-grow: 1;
+  max-width: 250px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.category-btn {
+  background-color: var(--light);
+  color: var(--text);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.category-btn:hover,
+.category-btn.active {
+  background-color: var(--primary);
+  color: var(--light);
+}
+
+.category-btn:disabled {
+  background-color: var(--disabled);
+  cursor: not-allowed;
+}
+
+/* === PAGINACIÓN === */
+#pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#pagination button {
+  background-color: var(--light);
+  color: var(--text);
+  border: none;
+  padding: 8px 16px;
+  margin: 5px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#pagination button:hover,
+#pagination button.active {
+  background-color: var(--accent);
+  color: var(--light);
+}
+
+#pagination button:disabled {
+  background-color: var(--disabled);
+  color: #999;
+  cursor: not-allowed;
+}
+
+/* === SECCIÓN DE PRÁCTICAS === */
+.practicas {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  background: url("/img/bg-1.png") no-repeat center/cover;
+}
+
+.practicas__image {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding: 50px;
+}
+
+.practicas__image img {
+  width: 90%;
+  height: 80%;
+  border: 10px solid var(--light);
+  transform: rotate(-8deg);
+  object-fit: cover;
+}
+
+.practica__text {
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.practica__text h2 {
+  font-size: 3em;
+  font-weight: bold;
+  color: var(--text);
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.practica__text .btn {
+  background-color: #e33523;
+  color: var(--light);
+  padding: 12px 25px;
+  margin: 30px 0px;
+  border: none;
+  letter-spacing: 1px;
+  font-weight: 400;
+  transition: background-color 0.3s ease;
+}
+
+.practica__text .btn:hover {
+  background-color: var(--accent);
+}
+
+/* === FOOTER === */
+.footer {
+  width: 100%;
+  background-color: var(--dark);
+  color: var(--light);
+  text-align: center;
+  padding: 10px 10px;
+}
+.footer .autor p {
+  text-align: end;
+}
+.footer .social-links i {
+  margin: 0 10px;
+  color: #aaa;
+  font-size: 30px;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer .social-links i:hover {
+  color: var(--light);
+}
+
+/* === RESPONSIOS EN RANGO DE 1023 A 768 === */
+@media (max-width: 1023px) and (min-width: 768px) {
+  /* === HEADER CONTENT === */
+
+  .header__text h1 {
+    font-size: 50px;
+  }
+
+  .header__text p {
+    font-size: 16px;
+  }
+
+  .header__image img {
+    width: 90%;
+    height: 80%;
+  }
+  .search-box {
+    flex-grow: 1;
+    max-width: 150px;
+  }
+  .category-btn {
+    padding: 10px 10px;
+  }
+  /* === SECCIÓN DE PRÁCTICAS === */
+
+  .practicas__image {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  .practicas__image img {
+    width: 100%;
+    height: 80%;
+  }
+  .practica__text h2 {
+    font-size: 40px;
+  }
+}
+
+/* === RESPONSIOS EN RANGO DE 767 A 320 === */
+@media (max-width: 767px) and (min-width: 320px) {
+  /* === HEADER CONTENT === */
+  .header__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .header__text {
+    width: 100%;
+    padding: 20px 20px;
+    order: 1;
+  }
+
+  .header__text h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .header__text p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .header__image {
+    width: 100%;
+    justify-content: center;
+  }
+
+  /* === FILTROS Y BÚSQUEDA === */
+  #categories {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .filters {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .categories {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    order: 1;
+    gap: 10px;
+  }
+
+  /* === SECCIÓN DE PRÁCTICAS === */
+  .practicas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .practicas__image {
+    display: none;
+  }
+
+  .practica__text {
+    width: 100%;
+    align-items: center;
+    padding: 5px;
+  }
+
+  .practica__text h2 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  /* === FOOTER === */
+  .footer {
+    width: 100%;
+    background-color: var(--dark);
+    color: var(--light);
+    text-align: center;
+    padding: 30px 20px;
+  }
+
+  .footer .autor p {
+    text-align: center;
+    padding-top: 10px;
+  }
+}

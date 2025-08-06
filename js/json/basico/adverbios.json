@@ -1,0 +1,37 @@
+[
+    { "letter": "actualmente", "sound": "Actually", "pronunciacion": "ahk-chu-ah-li" },
+    { "letter": "ahora", "sound": "Now", "pronunciacion": "nau" },
+    { "letter": "anoche", "sound": "Last night", "pronunciacion": "lahst nayt" },
+    { "letter": "ayer", "sound": "Yesterday", "pronunciacion": "yehs-tuhrr-dey" },
+    { "letter": "después", "sound": "After", "pronunciacion": "ahf-tehrr" },
+    { "letter": "hoy", "sound": "Today", "pronunciacion": "tuh-dey" },
+    { "letter": "nunca", "sound": "Never", "pronunciacion": "neh-vuhrr" },
+    { "letter": "mañana", "sound": "Tomorrow", "pronunciacion": "tuh-mah-rro" },
+    { "letter": "rápidamente", "sound": "Quickly", "pronunciacion": "kuihk-li" },
+    { "letter": "lentamente", "sound": "Slowly", "pronunciacion": "slou-li" },
+    { "letter": "aquí", "sound": "Here", "pronunciacion": "jihrr" },
+    { "letter": "allí", "sound": "There", "pronunciacion": "dhehrr" },
+    { "letter": "delante", "sound": "In front", "pronunciacion": "ihn frrohnt" },
+    { "letter": "detrás", "sound": "Behind", "pronunciacion": "bi-jaynd" },
+    { "letter": "debajo", "sound": "Under", "pronunciacion": "ahn-dehrr" },
+    { "letter": "arriba", "sound": "Over", "pronunciacion": "o-vuhrr" },
+    { "letter": "al lado", "sound": "Next", "pronunciacion": "nehkst" },
+    { "letter": "fuera", "sound": "Out", "pronunciacion": "aut" },
+    { "letter": "dentro", "sound": "In", "pronunciacion": "ihn" },
+    { "letter": "mucho", "sound": "A lot", "pronunciacion": "ah lat" },
+    { "letter": "poco", "sound": "A few", "pronunciacion": "ah fiu" },
+    { "letter": "demasiado", "sound": "Too much", "pronunciacion": "tu mahch" },
+    { "letter": "un poco", "sound": "A bit", "pronunciacion": "ey biht" },
+    { "letter": "por supuesto", "sound": "Of course", "pronunciacion": "afv korrs" },
+    { "letter": "exacto", "sound": "Exactly", "pronunciacion": "ehg-zahkt-li" },
+    { "letter": "sí", "sound": "Yes", "pronunciacion": "yehs" },
+    { "letter": "no", "sound": "No", "pronunciacion": "nou" },
+    { "letter": "jamás", "sound": "Never", "pronunciacion": "neh-vuhrr" },
+    { "letter": "alguna vez", "sound": "Ever", "pronunciacion": "eh-vuhrr" },
+    { "letter": "siempre", "sound": "Always", "pronunciacion": "al-weyz" },
+    { "letter": "a veces", "sound": "Sometimes", "pronunciacion": "sohm-taym" },
+    { "letter": "ahí", "sound": "There", "pronunciacion": "dhehrr" }
+]
+
+    
+  

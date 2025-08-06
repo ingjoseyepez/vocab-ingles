@@ -1,0 +1,46 @@
+[
+    { "letter": "yo", "sound": "I", "pronunciacion": "ay" },
+    { "letter": "tú / usted", "sound": "You", "pronunciacion": "yu" },
+    { "letter": "él", "sound": "He", "pronunciacion": "ji" },
+    { "letter": "ella", "sound": "She", "pronunciacion": "shi" },
+    { "letter": "ello / eso", "sound": "It", "pronunciacion": "iht" },
+    { "letter": "nosotros", "sound": "We", "pronunciacion": "wi" },
+    { "letter": "ellos (as)", "sound": "They", "pronunciacion": "dhey" },
+    { "letter": "me / mí", "sound": "Me", "pronunciacion": "mi" },
+    { "letter": "tú / usted", "sound": "You", "pronunciacion": "yu" },
+    { "letter": "él", "sound": "Him", "pronunciacion": "jim" },
+    { "letter": "ella", "sound": "Her", "pronunciacion": "jerr" },
+    { "letter": "ella / ello", "sound": "It", "pronunciacion": "iht" },
+    { "letter": "nosotros / nos", "sound": "Us", "pronunciacion": "as" },
+    { "letter": "ellos / ellas / los / las / les", "sound": "Them", "pronunciacion": "dhem" },
+    { "letter": "mío", "sound": "Mine", "pronunciacion": "mayn" },
+    { "letter": "tuyo / suyo / vuestro", "sound": "Yours", "pronunciacion": "yorz" },
+    { "letter": "suyo", "sound": "His", "pronunciacion": "jihz" },
+    { "letter": "suyo", "sound": "Hers", "pronunciacion": "jehrrz" },
+    { "letter": "suyo", "sound": "Its", "pronunciacion": "ihts" },
+    { "letter": "nuestro", "sound": "Ours", "pronunciacion": "aurrz" },
+    { "letter": "suyo", "sound": "Theirs", "pronunciacion": "dherrz" },
+    { "letter": "yo mismo", "sound": "Myself", "pronunciacion": "may-sehlf" },
+    { "letter": "tú mismo / usted mismo", "sound": "Yourself", "pronunciacion": "yurr-sehlf" },
+    { "letter": "él mismo", "sound": "Himself", "pronunciacion": "ihm-sehlf" },
+    { "letter": "ella misma", "sound": "Herself", "pronunciacion": "juhrr-sehlf" },
+    { "letter": "él mismo / ella misma", "sound": "Itself", "pronunciacion": "iht-sehlf" },
+    { "letter": "ustedes mismos", "sound": "Yourselves", "pronunciacion": "yorr-sehlvz" },
+    { "letter": "nosotros mismos", "sound": "Ourselves", "pronunciacion": "arr-sehlvz" },
+    { "letter": "ellos mismos / ellas mismas", "sound": "Themselves", "pronunciacion": "dhem-sehlvz" },
+    { "letter": "esto / este / esta", "sound": "This", "pronunciacion": "dhihs" },
+    { "letter": "eso / esa / ese / aquello / aquel", "sound": "That", "pronunciacion": "dhaht" },
+    { "letter": "estos / estas", "sound": "These", "pronunciacion": "dhiz" },
+    { "letter": "esos / esas", "sound": "Those", "pronunciacion": "dhoz" },
+    { "letter": "quién / quiénes", "sound": "Who", "pronunciacion": "ju" },
+    { "letter": "quien / quienes", "sound": "Whom", "pronunciacion": "jum" },
+    { "letter": "cuál / qué / el cual", "sound": "Which", "pronunciacion": "wihch" },
+    { "letter": "de quién / cuyo", "sound": "Whose", "pronunciacion": "juz" },
+    { "letter": "quienquiera", "sound": "Whoever", "pronunciacion": "jueh-vehrr" },
+    { "letter": "cualquier cosa / nada", "sound": "Anything", "pronunciacion": "eh-ni-thihng" }
+  ]
+  
+               
+
+
+  

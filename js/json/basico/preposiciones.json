@@ -1,0 +1,16 @@
+[
+  { "letter": "a", "sound": "A", "pronunciacion": "ey" },
+  { "letter": "con", "sound": "With", "pronunciacion": "wihth" },
+  { "letter": "contra", "sound": "Against", "pronunciacion": "ah-gehnst" },
+  { "letter": "según", "sound": "According to", "pronunciacion": "ah-korr-dihng tu" },
+  { "letter": "entre", "sound": "Between", "pronunciacion": "beth-win" },
+  { "letter": "para", "sound": "For", "pronunciacion": "forr" },
+  { "letter": "bajo", "sound": "Under", "pronunciacion": "ahn-dehrr" },
+  { "letter": "sobre", "sound": "On", "pronunciacion": "on" },
+  { "letter": "hacia", "sound": "Toward", "pronunciacion": "torrd" },
+  { "letter": "hasta", "sound": "Until", "pronunciacion": "ahn-tihl" },
+  { "letter": "desde", "sound": "From", "pronunciacion": "frrohm" },
+  { "letter": "en", "sound": "In", "pronunciacion": "ihn" },
+  { "letter": "sin", "sound": "Without", "pronunciacion": "wiht-auth" },
+  { "letter": "por", "sound": "For", "pronunciacion": "forr" }
+]

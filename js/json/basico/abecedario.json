@@ -1,0 +1,30 @@
+[
+  { "letter": "A", "sound": "ei", "pronunciacion": "ei" },
+  { "letter": "B", "sound": "bi", "pronunciacion": "bi" },
+  { "letter": "C", "sound": "si", "pronunciacion": "si" },
+  { "letter": "D", "sound": "di", "pronunciacion": "di" },
+  { "letter": "E", "sound": "i", "pronunciacion": "i" },
+  { "letter": "F", "sound": "ef", "pronunciacion": "ef" },
+  { "letter": "G", "sound": "yi", "pronunciacion": "yi" },
+  { "letter": "H", "sound": "eich", "pronunciacion": "eich" },
+  { "letter": "I", "sound": "ai", "pronunciacion": "ai" },
+  { "letter": "J", "sound": "yei", "pronunciacion": "yei" },
+  { "letter": "K", "sound": "kei", "pronunciacion": "kei" },
+  { "letter": "L", "sound": "el", "pronunciacion": "el" },
+  { "letter": "M", "sound": "em", "pronunciacion": "em" },
+  { "letter": "N", "sound": "en", "pronunciacion": "en" },
+  { "letter": "O", "sound": "ou", "pronunciacion": "ou" },
+  { "letter": "P", "sound": "pi", "pronunciacion": "pi" },
+  { "letter": "Q", "sound": "kiu", "pronunciacion": "kiu" },
+  { "letter": "R", "sound": "ar", "pronunciacion": "ar" },
+  { "letter": "S", "sound": "es", "pronunciacion": "es" },
+  { "letter": "T", "sound": "ti", "pronunciacion": "ti" },
+  { "letter": "U", "sound": "iu", "pronunciacion": "iu" },
+  { "letter": "V", "sound": "vi", "pronunciacion": "vi" },
+  { "letter": "W", "sound": "dobliu", "pronunciacion": "dobliu" },
+  { "letter": "X", "sound": "eks", "pronunciacion": "eks" },
+  { "letter": "Y", "sound": "uai", "pronunciacion": "uai" },
+  { "letter": "Z", "sound": "zi", "pronunciacion": "zi" }
+]
+
+  

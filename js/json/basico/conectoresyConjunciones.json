@@ -1,0 +1,20 @@
+[
+  { "letter": "y", "sound": "And", "pronunciacion": "end" },
+  { "letter": "que", "sound": "That", "pronunciacion": "daht" },
+  { "letter": "qué", "sound": "What", "pronunciacion": "waht" },
+  { "letter": "aunque", "sound": "Although", "pronunciacion": "al-dho" },
+  { "letter": "en cambio", "sound": "Instead", "pronunciacion": "ihns-dehd" },
+  { "letter": "pero", "sound": "But", "pronunciacion": "baht" },
+  { "letter": "por qué", "sound": "Why", "pronunciacion": "way" },
+  { "letter": "pues / bien / muy", "sound": "Well", "pronunciacion": "wehl" },
+  { "letter": "por eso", "sound": "For that", "pronunciacion": "fuhrr dhaht" },
+  { "letter": "por ejemplo", "sound": "For example", "pronunciacion": "fuhrr ehg-zahm-pohl" },
+  { "letter": "en primer lugar", "sound": "First of all", "pronunciacion": "fuhrrst afv al" },
+  { "letter": "por último", "sound": "Finally", "pronunciacion": "fay-nah-li" },
+  { "letter": "a continuación", "sound": "Next", "pronunciacion": "nehkst" },
+  { "letter": "sin embargo", "sound": "However", "pronunciacion": "jau-eh-vehrr" },
+  { "letter": "debido a", "sound": "Due to", "pronunciacion": "du tu" },
+  { "letter": "inmediatamente", "sound": "Immediately", "pronunciacion": "eh-mi-di-aht-li" },
+  { "letter": "por un lado", "sound": "On one side", "pronunciacion": "an-wahn-sayd" },
+  { "letter": "en efecto", "sound": "Indeed", "pronunciacion": "ehn-did" }
+]

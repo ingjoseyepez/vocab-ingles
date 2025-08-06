@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Juego de Vocabulario</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+</head>
+
+<body>
+  <div class="container">
+    <section id="vocabulario" class="vocabulario" aria-labelledby="titulo-vocabulario">
+      <div class="encabezado">
+        <h1>
+         Emparejar Palabras
+        </h1>
+        <a href="index.html">
+          <button><i class="fa-solid fa-house"></i></button>
+        </a>
+      </div>
+      <div class="filters" id="filters">
+        <div class="categories" role="group" aria-label="Filtrar por categoría">
+          <button class="category-btn" data-category="todos">Todos</button>
+          <button class="category-btn" data-category="basico">Básico</button>
+          <button class="category-btn" data-category="intermedio" disabled>
+            Intermedio
+          </button>
+          <button class="category-btn" data-category="avanzado" disabled>
+            Avanzado
+          </button>
+        </div>
+
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="Buscar palabra..." aria-label="Buscar palabra por nombre" />
+        </div>
+      </div>
+
+      <div class="vocab-cards" id="vocab-cards" aria-live="polite"></div>
+      <div id="pagination" class="pagination"></div>
+    </section>
+  </div>
+  <script src="js/app-juego.js"></script>
+</body>
+
+</html>

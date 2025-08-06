@@ -1,0 +1,18 @@
+[
+    { "letter": "Alfombra", "sound": "Carpet", "pronunciacion": "karr - piht" },
+    { "letter": "Cojín", "sound": "Cushion", "pronunciacion": "koh - shihn" },
+    { "letter": "Librero", "sound": "Nookcase", "pronunciacion": "buk - keys" },
+    { "letter": "Cortina", "sound": "Curtain", "pronunciacion": "kuhrr - tihn" },
+    { "letter": "Escalera", "sound": "Staircase", "pronunciacion": "stehrr - keys" },
+    { "letter": "Estéreo", "sound": "Stereo", "pronunciacion": "steh - rri - o" },
+    { "letter": "Florero", "sound": "Vase", "pronunciacion": "veyz" },
+    { "letter": "Chimenea", "sound": "Fireplace", "pronunciacion": "fayrr - pleys" },
+    { "letter": "Lámpara", "sound": "Lamp", "pronunciacion": "lahmp" },
+    { "letter": "Leña", "sound": "Firewood", "pronunciacion": "fay - uhrr - wuhd" },
+    { "letter": "Mesita central", "sound": "Coffee table", "pronunciacion": "ka - fi tey - buhl" },
+    { "letter": "Cuadro de pintura", "sound": "Painting", "pronunciacion": "pein - tihng" },
+    { "letter": "Sillón", "sound": "Armchair", "pronunciacion": "arrm - chehrr" },
+    { "letter": "Sofá", "sound": "Sofa", "pronunciacion": "sou - fah" },
+    { "letter": "Ventilador de techo", "sound": "Ceiling fan", "pronunciacion": "si - lihng fehn" }
+  ]
+    

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Emparejar Palabras</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <div class="game-container">
+        <header class="header">
+            <h1 id="titulo-tema"></h1>
+            <a href="app.html">
+              <button class="principal"><i class="fa-solid fa-house"></i></button>
+            </a>
+          </header>
+        <div class="word-pairs" id="pairs-container">
+            <!-- Los pares de palabras serán generados aquí -->
+        </div>
+        <button id="checkButton">Empezar de nuevo</button>
+    </div>
+    <div id="gameOverModal" class="modal hidden">
+        <div class="modal-content">
+          <p style="font-size: 2rem;">😢</p>
+          <h2>¡Game Over!</h2>
+          <button id="restartButton">Empezar de nuevo</button>
+        </div>
+      </div>
+    <script src="js/config.js"></script>
+</body>
+</html>
+

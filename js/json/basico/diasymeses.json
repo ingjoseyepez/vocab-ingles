@@ -1,0 +1,23 @@
+[
+    { "letter": "lunes", "sound": "Monday", "pronunciacion": "mahn-dey" },
+    { "letter": "martes", "sound": "Tuesday", "pronunciacion": "tuz-dey" },
+    { "letter": "miércoles", "sound": "Wednesday", "pronunciacion": "wehnz-dey" },
+    { "letter": "jueves", "sound": "Thursday", "pronunciacion": "thurrz-dey" },
+    { "letter": "viernes", "sound": "Friday", "pronunciacion": "frray-dey" },
+    { "letter": "sábado", "sound": "Saturday", "pronunciacion": "sah-tuhrr-dey" },
+    { "letter": "domingo", "sound": "Sunday", "pronunciacion": "san-dey" },
+    { "letter": "enero", "sound": "January", "pronunciacion": "jahni-uehrri" },
+    { "letter": "febrero", "sound": "February", "pronunciacion": "febih-uehrri" },
+    { "letter": "marzo", "sound": "March", "pronunciacion": "marrch" },
+    { "letter": "abril", "sound": "April", "pronunciacion": "ey-prruhl" },
+    { "letter": "mayo", "sound": "May", "pronunciacion": "mey" },
+    { "letter": "junio", "sound": "June", "pronunciacion": "yun" },
+    { "letter": "julio", "sound": "July", "pronunciacion": "yu-lay" },
+    { "letter": "agosto", "sound": "August", "pronunciacion": "a-gehst" },
+    { "letter": "septiembre", "sound": "September", "pronunciacion": "sep-tehm-behrr" },
+    { "letter": "octubre", "sound": "October", "pronunciacion": "ak-to-behrr" },
+    { "letter": "noviembre", "sound": "November", "pronunciacion": "no-vehm-behrr" },
+    { "letter": "diciembre", "sound": "December", "pronunciacion": "di-sehm-behrr" }
+  ]
+  
+  
