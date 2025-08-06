@@ -49,7 +49,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: url("../img/bg-1.png") no-repeat center/cover;
+  background: url("../img/bg-1.webp") no-repeat center/cover;
 }
 
 .nav {
@@ -287,7 +287,7 @@ button:active {
   display: flex;
   justify-content: center;
   height: 500px;
-  background: url("../img/bg-1.png") no-repeat center/cover;
+  background: url("../img/bg-1.webp") no-repeat center/cover;
 }
 
 .practicas__image {
