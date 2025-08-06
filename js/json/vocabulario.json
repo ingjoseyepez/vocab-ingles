@@ -4,319 +4,319 @@
     {
       "id": "1",
       "nombre": "Abecedario",
-      "imagen": "../img/categoria/bloques-abc.webp",
+      "imagen": "img/categoria/bloques-abc.webp",
       "categoria": "basico"
     },
     {
       "id": "2",
       "nombre": "Numeros",
-      "imagen": "../img/categoria/bloques-numericos.png",
+      "imagen": "img/categoria/bloques-numericos.png",
       "categoria": "basico"
     },
     {
       "id": "3",
       "nombre": "Dias y Meses",
-      "imagen": "../img/categoria/calendario.png",
+      "imagen": "img/categoria/calendario.png",
       "categoria": "basico"
     },
     {
       "id": "4",
       "nombre": "Estaciones del año",
-      "imagen": "../img/categoria/clima.png",
+      "imagen": "img/categoria/clima.png",
       "categoria": "basico"
     },
     {
       "id": "5",
       "nombre": "Pronombres",
-      "imagen": "../img/categoria/el.png",
+      "imagen": "img/categoria/el.png",
       "categoria": "basico"
     },
     {
       "id": "6",
       "nombre": "Conectores y conjunciones",
-      "imagen": "../img/categoria/rompecabezas.png",
+      "imagen": "img/categoria/rompecabezas.png",
       "categoria": "basico"
     },
     {
       "id": "7",
       "nombre": "Preposiciones",
-      "imagen": "../img/categoria/direccion.png",
+      "imagen": "img/categoria/direccion.png",
       "categoria": "basico"
     },
     {
       "id": "8",
       "nombre": "Adverbios",
-      "imagen": "../img/categoria/despertador.png",
+      "imagen": "img/categoria/despertador.png",
       "categoria": "basico"
     },
     {
       "id": "9",
       "nombre": "Verbos",
-      "imagen": "../img/categoria/hablando.png",
+      "imagen": "img/categoria/hablando.png",
       "categoria": "basico"
     },
     {
       "id": "10",
       "nombre": "Adjetivos",
-      "imagen": "../img/categoria/estado-animico.png",
+      "imagen": "img/categoria/estado-animico.png",
       "categoria": "basico"
     },
     {
       "id": "11",
       "nombre": "Colores y tonalidades",
-      "imagen": "../img/categoria/paleta-de-color.png",
+      "imagen": "img/categoria/paleta-de-color.png",
       "categoria": "basico"
     },
     {
       "id": "12",
       "nombre": "Comedor",
-      "imagen": "../img/categoria/comedor.png",
+      "imagen": "img/categoria/comedor.png",
       "categoria": "basico"
     },
     {
       "id": "13",
       "nombre": "Baño",
-      "imagen": "../img/categoria/ducha.png",
+      "imagen": "img/categoria/ducha.png",
       "categoria": "basico"
     },
     {
       "id": "14",
       "nombre": "Dormitorio",
-      "imagen": "../img/categoria/calidad-de-sueno.png",
+      "imagen": "img/categoria/calidad-de-sueno.png",
       "categoria": "basico"
     },
     {
       "id": "15",
       "nombre": "Cocina",
-      "imagen": "../img/categoria/cocina.png",
+      "imagen": "img/categoria/cocina.png",
       "categoria": "basico"
     },
     {
       "id": "16",
       "nombre": "Sala de estar",
-      "imagen": "../img/categoria/sala-de-estar.png",
+      "imagen": "img/categoria/sala-de-estar.png",
       "categoria": "basico"
     },
     {
       "id": "17",
       "nombre": "Familia",
-      "imagen": "../img/categoria/familia.png",
+      "imagen": "img/categoria/familia.png",
       "categoria": "basico"
     },
     {
       "id": "18",
       "nombre": "Frutas",
-      "imagen": "../img/categoria/frutas.png",
+      "imagen": "img/categoria/frutas.png",
       "categoria": "basico"
     },
     {
       "id": "19",
       "nombre": "Ropa de hombre",
-      "imagen": "../img/categoria/ropa-masculina.png",
+      "imagen": "img/categoria/ropa-masculina.png",
       "categoria": "basico"
     },
     {
       "id": "20",
       "nombre": "Ropa de mujer",
-      "imagen": "../img/categoria/moda.png",
+      "imagen": "img/categoria/moda.png",
       "categoria": "basico"
     },
     {
       "id": "21",
       "nombre": "Joyería",
-      "imagen": "../img/categoria/joyas.png",
+      "imagen": "img/categoria/joyas.png",
       "categoria": "intermedio"
     },
     {
       "id": "22",
       "nombre": "música",
-      "imagen": "../img/categoria/musica-en-vivo.png",
+      "imagen": "img/categoria/musica-en-vivo.png",
       "categoria": "intermedio"
     },
     {
       "id": "23",
       "nombre": "profesiones y ocupaciones",
-      "imagen": "../img/categoria/profesor.png",
+      "imagen": "img/categoria/profesor.png",
       "categoria": "intermedio"
     },
     {
       "id": "24",
       "nombre": "Enfermedades",
-      "imagen": "../img/categoria/hospitalizacion.png",
+      "imagen": "img/categoria/hospitalizacion.png",
       "categoria": "intermedio"
     },
     {
       "id": "25",
       "nombre": "Cuerpo humano",
-      "imagen": "../img/categoria/fisiologia.png",
+      "imagen": "img/categoria/fisiologia.png",
       "categoria": "intermedio"
     },
     {
       "id": "26",
       "nombre": "Los cinco sentidos",
-      "imagen": "../img/categoria/cinco-sentidos.png",
+      "imagen": "img/categoria/cinco-sentidos.png",
       "categoria": "intermedio"
     },
     {
       "id": "27",
       "nombre": "Dentista",
-      "imagen": "../img/categoria/dentista.png",
+      "imagen": "img/categoria/dentista.png",
       "categoria": "intermedio"
     },
     {
       "id": "28",
       "nombre": "Gimnasio",
-      "imagen": "../img/categoria/levantar-pesas.png",
+      "imagen": "img/categoria/levantar-pesas.png",
       "categoria": "intermedio"
     },
     {
       "id": "29",
       "nombre": "condimentos y salsas",
-      "imagen": "../img/categoria/condimento.png",
+      "imagen": "img/categoria/condimento.png",
       "categoria": "intermedio"
     },
     {
       "id": "30",
       "nombre": "proteina",
-      "imagen": "../img/categoria/proteina.png",
+      "imagen": "img/categoria/proteina.png",
       "categoria": "intermedio"
     },
     {
       "id": "31",
       "nombre": "Supermercado",
-      "imagen": "../img/categoria/cesta-de-la-compra.png",
+      "imagen": "img/categoria/cesta-de-la-compra.png",
       "categoria": "intermedio"
     },
     {
       "id": "32",
       "nombre": "Partes de una casa",
-      "imagen": "../img/categoria/casa.png",
+      "imagen": "img/categoria/casa.png",
       "categoria": "intermedio"
     },
     {
       "id": "33",
       "nombre": "Postres y helados",
-      "imagen": "../img/categoria/postre.png",
+      "imagen": "img/categoria/postre.png",
       "categoria": "intermedio"
     },
     {
       "id": "34",
       "nombre": "Bebidas",
-      "imagen": "../img/categoria/bebidas.png",
+      "imagen": "img/categoria/bebidas.png",
       "categoria": "intermedio"
     },
     {
       "id": "35",
       "nombre": "Productos de aseo",
-      "imagen": "../img/categoria/productos-de-higiene.png",
+      "imagen": "img/categoria/productos-de-higiene.png",
       "categoria": "intermedio"
     },
     {
       "id": "36",
       "nombre": "La ciudad",
-      "imagen": "../img/categoria/paseo-por-la-ciudad.png",
+      "imagen": "img/categoria/paseo-por-la-ciudad.png",
       "categoria": "intermedio"
     },
     {
       "id": "37",
       "nombre": "Florería",
-      "imagen": "../img/categoria/maceta.png",
+      "imagen": "img/categoria/maceta.png",
       "categoria": "intermedio"
     },
     {
       "id": "38",
       "nombre": "Ferretería",
-      "imagen": "../img/categoria/caja-de-herramientas.png",
+      "imagen": "img/categoria/caja-de-herramientas.png",
       "categoria": "intermedio"
     },
     {
       "id": "39",
       "nombre": "Farmacia",
-      "imagen": "../img/categoria/farmacia.png",
+      "imagen": "img/categoria/farmacia.png",
       "categoria": "intermedio"
     },
     {
       "id": "40",
       "nombre": "Envases y contenedores",
-      "imagen": "../img/categoria/contenedor-de-comida.png",
+      "imagen": "img/categoria/contenedor-de-comida.png",
       "categoria": "intermedio"
     },
     {
       "id": "41",
       "nombre": "Librería",
-      "imagen": "../img/categoria/libros.png",
+      "imagen": "img/categoria/libros.png",
       "categoria": "intermedio"
     },
     {
       "id": "42",
       "nombre": "Banco",
-      "imagen": "../img/categoria/banco.png",
+      "imagen": "img/categoria/banco.png",
       "categoria": "intermedio"
     },
     {
       "id": "43",
       "nombre": "Partes de un auto",
-      "imagen": "../img/categoria/piezas-de-automovil.png",
+      "imagen": "img/categoria/piezas-de-automovil.png",
       "categoria": "avanzado"
     },
     {
       "id": "44",
       "nombre": "Avión",
-      "imagen": "../img/categoria/avion.png",
+      "imagen": "img/categoria/avion.png",
       "categoria": "avanzado"
     },
     {
       "id": "45",
       "nombre": "Barco",
-      "imagen": "../img/categoria/embarcacion.png",
+      "imagen": "img/categoria/embarcacion.png",
       "categoria": "avanzado"
     },
     {
       "id": "46",
       "nombre": "Tren",
-      "imagen": "../img/categoria/tren-de-juguete.png",
+      "imagen": "img/categoria/tren-de-juguete.png",
       "categoria": "avanzado"
     },
     {
       "id": "47",
       "nombre": "Sastrería",
-      "imagen": "../img/categoria/de-coser.png",
+      "imagen": "img/categoria/de-coser.png",
       "categoria": "avanzado"
     },
     {
       "id": "48",
       "nombre": "Astronomía",
-      "imagen": "../img/categoria/astronomia.png",
+      "imagen": "img/categoria/astronomia.png",
       "categoria": "avanzado"
     },
     {
       "id": "49",
       "nombre": "Animales: Mamíferos",
-      "imagen": "../img/categoria/leon.png",
+      "imagen": "img/categoria/leon.png",
       "categoria": "avanzado"
     },
     {
       "id": "50",
       "nombre": "Animales: Peces y crustáceos",
-      "imagen": "../img/categoria/oceano.png",
+      "imagen": "img/categoria/oceano.png",
       "categoria": "avanzado"
     },
     {
       "id": "51",
       "nombre": "Animales: Insectos",
-      "imagen": "../img/categoria/insectos.png",
+      "imagen": "img/categoria/insectos.png",
       "categoria": "avanzado"
     },
     {
       "id": "52",
       "nombre": "Animales: Reptiles y anfibios",
-      "imagen": "../img/categoria/reptil.png",
+      "imagen": "img/categoria/reptil.png",
       "categoria": "avanzado"
     },
     {
       "id": "53",
       "nombre": "Animales: Aves",
-      "imagen": "../img/categoria/guacamayo.png",
+      "imagen": "img/categoria/guacamayo.png",
       "categoria": "avanzado"
     }
   ]
