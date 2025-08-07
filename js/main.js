@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
  */
 async function loadVocabularyData() {
   try {
-    const response = await fetch("/js/json/vocabulario.json");
+    const response = await fetch("js/json/vocabulario.json");
     if (!response.ok) throw new Error("Archivo JSON no encontrado o inválido");
 
     const data = await response.json();
