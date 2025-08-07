@@ -93,7 +93,7 @@ function renderCards() {
     if (!isDisabled) {
       cardDiv.addEventListener("click", () => {
         localStorage.setItem("temaSeleccionado", card.nombre.toLowerCase());
-        window.location.href = "/vocabulario.html";
+        window.location.href = "vocabulario.html";
       });
     }
 
